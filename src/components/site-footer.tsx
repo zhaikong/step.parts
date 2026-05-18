@@ -3,11 +3,11 @@ export function SiteFooter() {
     <footer className="flex justify-end py-5 text-xs text-muted-foreground">
       <a
         className="hover:text-foreground"
-        href="https://twitter.com/soft_servo"
+        href="https://x.com/earthtojake"
         target="_blank"
         rel="noreferrer"
       >
-        Made by @soft_servo
+        Made by @earthtojake
       </a>
     </footer>
   );
