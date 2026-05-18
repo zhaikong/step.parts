@@ -6,6 +6,8 @@
 
 <p align="center">
   <a href="https://www.step.parts">Directory</a>
+  ·
+  <a href="https://x.com/earthtojake">@earthtojake</a>
 </p>
 
 <p align="center">
